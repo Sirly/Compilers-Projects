@@ -3,7 +3,9 @@
 # Updated: 8/31/2017
 #
 # Author(s):    Kevin Nakashima
-#               Patrick Ryan
+#
+#   Notes: variables can be more than one character long,
+#       or use integers as non-variable values
 
 
 def isOperand(c):
